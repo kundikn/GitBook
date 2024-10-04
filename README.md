@@ -1,5 +1,7 @@
 # GitBook ![GitHub stars](https://img.shields.io/github/stars/kundikn/Gitbook) ![License](https://img.shields.io/github/license/kundikn/Gitbook) ![GitHub forks](https://img.shields.io/github/forks/kundikn/Gitbook)
 
+**Это руководство хороший старт в сетях**
+
 ## Оглавление
 - AAA<br>
 - ACL<br>
@@ -9,7 +11,18 @@
 - Траблшутинг протоколов<br>
 - VPN
   - Теория<br>
-  - Практика
+  - Практика<br>
+- Виртуалки под разные задачи<br>
+  - Теория<br>
+  - Практика<br>
+- Интересная теория<br>
+- Протоколы коммутаторов<br>
+  - Теория<br>
+  - Практика<br>
+- Протоколы маршрутизации<br>
+  - Теория<br>
+    - BGP<br>
+  - Практика<br>
 ---------
 
 - AAA (Authentication, Authorization, Accounting)
@@ -74,3 +87,6 @@
      - [Настройка протокола RIP](/Router_protocols/Practice/Настройка_RIP.md)
      - [Настройка протокола OSPF](/Router_protocols/Practice/Настройка_OSPF.md)
      - [Настройка протокола BGP](/Router_protocols/Practice/Настройка_протокола_BGP.md)
+       
+ ## Как внести вклад
+Мы приветствуем ваш вклад! Пожалуйста, отправляйте pull requests или создавайте issues для обсуждения предложений.    
