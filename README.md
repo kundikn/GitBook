@@ -43,3 +43,21 @@
     - [Настройка STP на коммутаторах](./Switch_protocols/Practice/Настройка_STP_на_коммутаторах.md)
     - [Настройка VLAN на коммутаторах](./Switch_protocols/Practice/Настройка_VLAN.md)
     - [Настройка VTP на коммутаторах](./Switch_protocols/Practice/Настройка_VTP.md)
+ - Протоколы маршрутизации
+   - Теория
+     - [Что такое маршрутизация?](./Router_protocols/Theory/Маршрутизация.md)
+     - [Прокотол динамичечской маршрутизации RIP](./Router_protocols/Theory/RIP(Routing_Information_Protocol).md)
+     - [Прокотол динамичечской маршрутизации OSPF](./Router_protocols/Theory/OSPF(Open_Shortest_Path_First).md)
+     - [Прокотол динамичечской маршрутизации EIGRP](./Router_protocols/Theory/EIGRP(Enhanced_Interior_Gateway_Routing_Protocol).md)
+     - [Балансировка нагрузки в OSPF и EIGRP](./Router_protocols/Theory/Балансировка_нагрузки_OSPF_EIGRP.md)
+     - [PBR (не совсем протокол, но используется в перераспределении нагрузки)](./Router_protocols/Theory/PBR(Policy-Based_Routing).md)
+     - BGP
+       - [Протокол BGP](./Router_protocols/Theory/BGP/BGP(Border_Gateway_Protocol).md)
+       - [Выбор маршрута в BGP](./Router_protocols/Theory/BGP/BGP_выбор_маршрута.md)
+       - [Балансировка и распределение нагрузки в BGP](./Router_protocols/Theory/BGP/Балансировка_и_распределение_нагрузки_BGP.md)
+       - [Управление маршрутами в BGP](./Router_protocols/Theory/BGP/Управление_маршрутами_BGP.md)
+  - Практика
+    - [Настройка статической маршрутизации](/Router_protocols/Practice/Настройка_статической_маршрутизации.md)
+    - [Настройка протокола RIP](/Router_protocols/Practice/Настройка_RIP.md)
+    - [Настройка протокола OSPF](/Router_protocols/Practice/Настройка_OSPF.md)
+    - [Настройка протокола BGP](/Router_protocols/Practice/Настройка_протокола_BGP.md)
