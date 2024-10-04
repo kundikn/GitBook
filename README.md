@@ -1,4 +1,16 @@
-# GitBook
+# GitBook ![GitHub stars](https://img.shields.io/github/stars/your_username/your_repo) ![License](https://img.shields.io/github/license/your_username/your_repo) ![GitHub forks](https://img.shields.io/github/forks/your_username/your_repo)
+
+## Оглавление
+- [AAA](#aaa-authentication-authorization-accounting)
+- [ACL](#acl-access-control-list)
+- [NAT](#nat)
+  - [Теория](#теория)
+  - [Практика](#практика)
+- [Траблшутинг протоколов](#траблшутинг-протоколов)
+- [VPN](#vpn)
+  - [Теория](#теория-1)
+  - [Практика](#практика)
+
 - AAA (Authentication, Authorization, Accounting)
    - [Как настроить удаленное подключение к коммутатору](./AAA/auth_ssh.md)
 - ACL (Access Control List)
