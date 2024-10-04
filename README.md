@@ -23,3 +23,10 @@
      - [Настройка DMVPN](./VPN/Practice/Настройка_DMVPN.md)
      - [Настройка GRE](./VPN/Practice/Настройка_GRE.md)
      - [Настройка IPsec](./VPN/Practice/Настройка_IPsec.md)
+- Виртуалки под разные задачи
+  - Теория
+    - [Что такое DHCP?](./Виртуалки/Theory/DHCP(Dynamic_Host_Configuration_Protocol).md)
+  - Практика
+    - [Настройка DHCP на Linux](./Виртуалки/Practice/DHCP_virt.md)
+    - [Настройка DHCP на маршрутизаторе](./Виртуалки/Practice/DHCP_router.md)
+    - [Настройка SYSLOG на Linux](./Виртуалки/Practice/SYSLOG.md)
