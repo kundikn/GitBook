@@ -34,3 +34,12 @@
   - [DMZ](./Theory/DMZ(DeMilitarized_Zone).md)
   - [Агрегирование портов](./Theory/Агрегирование_портов.md)
   - [Классы сетей.md](./Theory/Классы_сетей.md)
+- Протоколы коммутаторов
+  - Теория
+    - [Протокол STP](./Switch_protocols/Theory/STP(Spanning_Tree_Protocol).md)
+    - [Протокол VLAN](./Switch_protocols/Theory/VLAN(Virtual_Local_Area_Network).md)
+    - [Протокол VTP](./Switch_protocols/Theory/VTP(VLAN_Trunking_Protocol).md)
+  - Практика
+    - [Настройка STP на коммутаторах](./Switch_protocols/Practice/Настройка_STP_на_коммутаторах.md)
+    - [Настройка VLAN на коммутаторах](./Switch_protocols/Practice/Настройка_VLAN.md)
+    - [Настройка VTP на коммутаторах](./Switch_protocols/Practice/Настройка_VTP.md)
