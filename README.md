@@ -1,2 +1,3 @@
 # GitBook
-This is my book 
+* AAA
+   & [Как настроить удаленное подключение к коммутатору](./AAA/auth_ssh.md)
