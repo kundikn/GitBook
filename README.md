@@ -56,8 +56,8 @@
        - [Выбор маршрута в BGP](./Router_protocols/Theory/BGP/BGP_выбор_маршрута.md)
        - [Балансировка и распределение нагрузки в BGP](./Router_protocols/Theory/BGP/Балансировка_и_распределение_нагрузки_BGP.md)
        - [Управление маршрутами в BGP](./Router_protocols/Theory/BGP/Управление_маршрутами_BGP.md)
-  - Практика
-    - [Настройка статической маршрутизации](/Router_protocols/Practice/Настройка_статической_маршрутизации.md)
-    - [Настройка протокола RIP](/Router_protocols/Practice/Настройка_RIP.md)
-    - [Настройка протокола OSPF](/Router_protocols/Practice/Настройка_OSPF.md)
-    - [Настройка протокола BGP](/Router_protocols/Practice/Настройка_протокола_BGP.md)
+   - Практика
+     - [Настройка статической маршрутизации](/Router_protocols/Practice/Настройка_статической_маршрутизации.md)
+     - [Настройка протокола RIP](/Router_protocols/Practice/Настройка_RIP.md)
+     - [Настройка протокола OSPF](/Router_protocols/Practice/Настройка_OSPF.md)
+     - [Настройка протокола BGP](/Router_protocols/Practice/Настройка_протокола_BGP.md)
