@@ -28,5 +28,9 @@
     - [Что такое DHCP?](./Виртуалки/Theory/DHCP(Dynamic_Host_Configuration_Protocol).md)
   - Практика
     - [Настройка DHCP на Linux](./Виртуалки/Practice/DHCP_virt.md)
-    - [Настройка DHCP на маршрутизаторе](./Виртуалки/Practice/DHCP_router.md)
+    - [Настройка DHCP на маршрутизаторе](./Виртуалки/Practice/DHCP_route.md)
     - [Настройка SYSLOG на Linux](./Виртуалки/Practice/SYSLOG.md)
+- Интересная теория
+  - [DMZ](./Theory/DMZ(DeMilitarized_Zone).md)
+  - [Агрегирование портов](./Theory/Агрегирование_портов.md)
+  - [Классы сетей.md](./Theory/Классы_сетей.md)
