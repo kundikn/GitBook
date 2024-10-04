@@ -1,15 +1,16 @@
-# GitBook ![GitHub stars](https://img.shields.io/github/stars/your_username/your_repo) ![License](https://img.shields.io/github/license/your_username/your_repo) ![GitHub forks](https://img.shields.io/github/forks/your_username/your_repo)
+# GitBook ![GitHub stars](https://img.shields.io/github/stars/kundikn/Gitbook) ![License](https://img.shields.io/github/license/kundikn/Gitbook) ![GitHub forks](https://img.shields.io/github/forks/kundikn/Gitbook)
 
 ## Оглавление
-- [AAA](#aaa-authentication-authorization-accounting)
-- [ACL](#acl-access-control-list)
-- [NAT](#nat)
-  - [Теория](#теория)
-  - [Практика](#практика)
-- [Траблшутинг протоколов](#траблшутинг-протоколов)
-- [VPN](#vpn)
-  - [Теория](#теория-1)
-  - [Практика](#практика)
+- AAA<br>
+- ACL<br>
+- NAT
+  - Теория<br>
+  - Практика<br>
+- Траблшутинг протоколов<br>
+- VPN
+  - Теория<br>
+  - Практика
+---------
 
 - AAA (Authentication, Authorization, Accounting)
    - [Как настроить удаленное подключение к коммутатору](./AAA/auth_ssh.md)
