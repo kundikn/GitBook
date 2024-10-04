@@ -12,3 +12,14 @@
   - [Трабшутинг протокола BGP](./Troubleshooting/Troubleshoot_BGP.md)
   - [Трабшутинг протоколов IGP](./Troubleshooting/Troubleshoot_IGP.md)
   - [Трабшутинг протокола BGP](./Troubleshooting/Troubleshooting_DMVPN.md)
+- VPN
+  - Теория
+    - [DMVPN](./VPN/Theory/DMVPN(Dynamic_Multipoint_VPN).md)
+    - [GRE](./VPN/Theory/GRE(Generic_Routing_Encapsulation).md)
+    - [GRE over IPsec](./VPN/Theory/GRE_over_IPSec.md)
+    - [IPsec](./VPN/Theory/IPsec(Internet_Protocol_Security).md)
+    - [IPsec VTI](./VPN/Theory/IPSecVTI(Virtual_Tunnel_Interface).md)
+   - Практика
+     - [Настройка DMVPN](./VPN/Practice/Настройка_DMVPN.md)
+     - [Настройка GRE](./VPN/Practice/Настройка_GRE.md)
+     - [Настройка IPsec](./VPN/Practice/Настройка_IPsec.md)
