@@ -8,3 +8,7 @@
     - [NAT](./NAT/Theory/NAT(Network_Address_Translation).md)
   - Практика
     - [Настройка NAT](./NAT/Practice/Настройка_NAT.md)
+- Траблшутинг протоколов
+  - [Трабшутинг протокола BGP](./Troubleshooting/Troubleshoot_BGP.md)
+  - [Трабшутинг протоколов IGP](./Troubleshooting/Troubleshoot_IGP.md)
+  - [Трабшутинг протокола BGP](./Troubleshooting/Troubleshooting_DMVPN.md)
