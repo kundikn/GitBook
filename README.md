@@ -1,6 +1,6 @@
 # GitBook ![GitHub stars](https://img.shields.io/github/stars/kundikn/Gitbook) ![License](https://img.shields.io/github/license/kundikn/Gitbook) ![GitHub forks](https://img.shields.io/github/forks/kundikn/Gitbook)
 
-**Это руководство хороший старт в сетях**
+*Это руководство хороший старт в сетях*
 
 ## Оглавление
 - AAA<br>
@@ -24,6 +24,8 @@
     - BGP<br>
   - Практика<br>
 ---------
+
+## Содержание
 
 - AAA (Authentication, Authorization, Accounting)
    - [Как настроить удаленное подключение к коммутатору](./AAA/auth_ssh.md)
@@ -89,4 +91,4 @@
      - [Настройка протокола BGP](/Router_protocols/Practice/Настройка_протокола_BGP.md)
        
  ## Как внести вклад
-Мы приветствуем ваш вклад! Пожалуйста, отправляйте pull requests или создавайте issues для обсуждения предложений.    
+*Мы приветствуем ваш вклад! Пожалуйста, отправляйте pull requests или создавайте issues для обсуждения предложений.*    
