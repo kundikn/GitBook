@@ -1,4 +1,4 @@
-# GitBook ![GitHub stars](https://img.shields.io/github/stars/kundikn/Gitbook) ![License](https://img.shields.io/github/license/kundikn/Gitbook) ![GitHub forks](https://img.shields.io/github/forks/kundikn/Gitbook)
+# Сети для самых маленьких ![GitHub stars](https://img.shields.io/github/stars/kundikn/Gitbook) ![License](https://img.shields.io/github/license/kundikn/Gitbook) ![GitHub forks](https://img.shields.io/github/forks/kundikn/Gitbook)
 
 *Это руководство хороший старт в сетях*
 
