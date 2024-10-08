@@ -7,6 +7,16 @@
 ```R1(config-subif)#ip helper-address 192.168.103.10 
 R1(config-subif)#ip helper-address 192.168.103.10 
 ```
+-------
+## Настройка конфига isc-dhcp-server
+
+При установке **isc-dhcp-server** он будет сразу выдавать ошибку, так как сервер еще не настроен
+
+Нужно в файле */etc/default/isc-dhcp-linux* указать активный интерфейс, иначе не запустится **dhcp**
+
+```
+INTERFACES="eth0"
+```
 
 ## Настройка dhcp на линуксе для нескольких влан
 
