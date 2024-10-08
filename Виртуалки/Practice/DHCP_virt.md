@@ -17,6 +17,7 @@ R1(config-subif)#ip helper-address 192.168.103.10
 ```
 INTERFACES="eth0"
 ```
+------
 
 ## Настройка dhcp на линуксе для нескольких влан
 
