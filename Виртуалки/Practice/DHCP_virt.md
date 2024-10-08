@@ -60,7 +60,7 @@ option routers 192. 168.20.13
 
 Посмотреть выделенные ip можно в файле */var/lib/dhcp/dhcpd.leases*, вот пример:
 
-![image-20241009010951359](./dhcpd.leases)
+![image-20241009010951359](./dhcpd_leases.png)
 
 ----
 
